@@ -20,19 +20,31 @@ def price_calculator(rooms, count_of_month, no_of_days):
     return patients
 
 
-for i in range(0, len(month)):
-    patient_per_month = price_calculator(no_of_rooms, month[i], days[i])
-    total_patients = total_patients + patient_per_month
+def calulator(no_of_rooms, sp_price, nor_price, target_revenue, month, days, total_patients):
+    for i in range(0, len(month)):
+        patient_per_month = price_calculator(no_of_rooms, month[i], days[i])
+        total_patients = total_patients + patient_per_month
 
-for i in range(0, no_of_rooms + 1):
-    nor_rooms = no_of_rooms - i
-    sp_rooms = i
-    income = (nor_rooms * nor_price) + (sp_rooms * sp_price)
-    avg_income = income / no_of_rooms
-    total_revenue = avg_income * total_patients
-    if total_revenue > target_revenue:
-        print(i)
+    for i in range(0, no_of_rooms + 1):
+        nor_rooms = no_of_rooms - i
+        sp_rooms = i
+        income = (nor_rooms * nor_price) + (sp_rooms * sp_price)
+        avg_income = income / no_of_rooms
+        total_revenue = avg_income * total_patients
+        if total_revenue > target_revenue:
+            print(sp_rooms)
+            exit()
+
+    print(no_of_rooms)
+    os.system("Pause")
+
+if 5 <= no_of_rooms <= 100:
+    if 0 <= sp_price <= 5000 or 0 <= nor_price <= 5000:
+        if 0 <= target_revenue < 90000000:
+            calulator(no_of_rooms, sp_price, nor_price, target_revenue, month, days, total_patients)
+        else:
+            exit()
+    else:
         exit()
-
-print(no_of_rooms)
-os.system("Pause")
+else:
+    exit()
