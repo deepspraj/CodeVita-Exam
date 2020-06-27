@@ -1,3 +1,9 @@
+ ##
+ # @author Deepak Prajapati
+ # @email deepprajapati01@gmail.com
+ # @create date 2020-06-27 13:17:20
+ # @modify date 2020-06-27 13:17:20
+ ##
 test_cases = int(input())
 string_list = {}
 word_list = {}
