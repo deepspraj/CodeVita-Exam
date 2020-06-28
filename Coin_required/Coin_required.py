@@ -1,3 +1,10 @@
+##
+ # @author Deepak Prajapati
+ # @email deepprajapati01@gmail.com
+ # @create date 2020-06-27 13:19:14
+ # @modify date 2020-06-27 13:19:14
+##
+
 import os
 no_of_cases = int(input())
 amount = []
