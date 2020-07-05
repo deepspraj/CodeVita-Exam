@@ -1,8 +1,9 @@
 # CodeVita-Exam
 
-## Problems from codevita exams are solved and shared in public with problem description and source code in python.
+Problems from codevita exams are solved and shared in public with problem description and source code in python.
 
-## Source Code are solely solved by own logic and satisfies every test cases given in the problem description.
+Source Code are solely solved by own logic and satisfies every test cases given in the problem description.
+
 ## Each Directory contains:
 
 1. Pdf file with problem statement and test cases.

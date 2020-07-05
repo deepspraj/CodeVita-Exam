@@ -25,4 +25,4 @@ Output :
 ```5```
 
 
-## [For More details](https://en.wikipedia.org/wiki/Diophantine_equation)
+### [For More details](https://en.wikipedia.org/wiki/Diophantine_equation)
