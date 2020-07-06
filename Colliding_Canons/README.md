@@ -15,7 +15,7 @@ From inputs provided by the user, we can find the coordinates of the guns. And b
 
 ### For more explaination look for image below
 
-![Explainatory Image](https://ibb.co/5KKCh0R)
+<a href="https://ibb.co/5KKCh0R"><img src="https://i.ibb.co/XYY6xQC/Be-Funky-design.jpg" alt="Be-Funky-design" border="0" /></a>
 
 ```\Colliding_Canons> python Colliding_Canons.py```
 
