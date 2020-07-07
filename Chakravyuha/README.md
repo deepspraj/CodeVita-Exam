@@ -14,7 +14,7 @@ A Sequential order of units differs structurally based on the radius of the Chak
 
 ## Explaination
 
-This is hectic challenge to solved. But when we divide the problem in several problems, then it is easy.
+This is hectic challenge to solve. But when we divide the problem in several problems, then it is easy.
 
 First, we need to solve the numerical spiral matrix.
 
