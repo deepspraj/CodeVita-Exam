@@ -27,7 +27,7 @@ Last, print the points and the locations.
 
 ```\Chakravyuha> python chakravyuha.py```
 
-```7```
+```4```
 
 Output :
 
