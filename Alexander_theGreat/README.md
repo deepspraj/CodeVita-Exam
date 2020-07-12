@@ -10,7 +10,7 @@ The puzzle is as follows:
 
 Given two integers **'n1'** and **'n2'**, select two integers **'a'** and **'b'**, such as to solve the equation **(n1 * a + n2 * b = x)**. But there is a catch, **'x'** is the smallest positive integer which satisfies the equation. Can you help Alexander become the greatest?
 
-## Explaination
+## Explanation
 
 The question is the linear Diophantine equation. The diophantine equation is the equation in which only the equation is provided and two or more unknowns are needed to find. But, the Diophantine equation is solvable only when the **x** is multiple of **gcd** of **a** ( intercept of n1 ) and **b** ( intercept of n2 ). Either **smallest multiple** is the required solution of the given question or **gcd** is the solution ( whichever is the smallest ).
 

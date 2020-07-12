@@ -27,7 +27,7 @@ The qualities of that girl, as per Sam’'s criteria, have to be decoded from th
 
 Find Sam, a suitable Bride and print the row and column of the bride, and find out the number of qualities that the Bride possesses.
 
-## Explaination
+## Explanation
 
 Firstly, we need to confirm that whether at a particular location (say **A**) the bride is present or not. If at a location **(A)** the value is **1** that means there is the bride and we need to consider that location **(A)**. To calculate the qualities of the bride **(A)** we need to calculate the count of surrounding bride. If the bride at location **A** is surrounded by **3** another bride's that means the number of qualities of the bride at the location **(A)** is **3**. In this way, we need to calculate the qualities of every present bride and their qualities. The bride with more number of qualities and close to Sam's house is the right candidate for marriage.
 

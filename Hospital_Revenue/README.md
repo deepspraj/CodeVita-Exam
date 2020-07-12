@@ -10,7 +10,7 @@ The number of patients on any given day of the year is given by the following fo
 
 All patients prefer without TV rooms as they are cheaper but will opt for with TV rooms only if without TV rooms are not available. Hospital has a revenue target for the first year of operation. Given this target and the values of N, R1, and R2 you need to identify the number of TVs the hospital should buy so that it meets the revenue target. Assume the Hospital opens on 1st Jan and year is a non-leap year.
 
-## Explaination
+## Explanation
 
 Firstly, We need to assume the fact that the patient gets discharged on the same day only.
 

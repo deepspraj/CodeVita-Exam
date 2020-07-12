@@ -6,7 +6,7 @@ The question was asked in Codevita Examination 2019
 
 Find minimum number of coins required to form any value between **1** to **N**, both inclusive. Cumulative value of coins should not exceed **N**. Coin denominations are **1 Rupee**, **2 Rupee** and **5 Rupee**.<br>
 
-## Explaination
+## Explanation
 
 Consider value of **N** is **13**, then the minimum number of coins required to formulate any value between **1** and **13**, is **6**. **One 5 Rupee**, **three 2 Rupee** and **two 1 Rupee** coins are required to realize any value between **1** and **13**.
 

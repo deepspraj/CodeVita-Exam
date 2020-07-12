@@ -7,7 +7,7 @@ The question was asked in Codevita Examination 2019
 For enhancing the book reading, the school distributed storybooks to students as part of the Children’s day celebrations.
 To increase the reading habit, the class teacher decided to exchange books every week so that everyone will have a different book to read. She wants to know how many unique exchanges are possible in such a way that students don't repeat the book.
 
-## Explaination
+## Explanation
 
 The problem can be solved in two ways:
 

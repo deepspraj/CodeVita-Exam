@@ -14,7 +14,7 @@ The loan repayment happens at a monthly frequency and Equated Monthly Installmen
 
 EMI = (loanAmount * monthlyInterestRate )/( 1 - 1 / (1 + monthlyInterestRate)^(numberOfYears * 12))
 
-## Explaination
+## Explanation
 
 Find EMI for every slot of bank A and bank B. 
 

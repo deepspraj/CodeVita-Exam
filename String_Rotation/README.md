@@ -14,7 +14,7 @@ If yes print "YES" otherwise "NO". Input
 
 The first line contains the original string s. The second line contains a single integer q. The ith of the next q lines contains character d[i] denoting direction and integer r[i] denoting the magnitude.
 
-## Explaination
+## Explanation
 
 The user will provide us the string (word). 
 

@@ -9,7 +9,7 @@ You wanted to simulate a similar situation for the video game you are designing.
 
 The two guns are positioned at half the height ( h ) of the tunnel, at a distance ( D ) apart. The two guns fire simultaneously. The trajectories of the bullets ( if extended ) will meet at a maximum of one point. They are said to collide if their trajectories meet, and the two bullets arrive at that point within 0.5 seconds of each other.
 
-## Explaination
+## Explanation
 
 From inputs provided by the user, we can find the coordinates of the guns. 
 
@@ -17,9 +17,13 @@ And based on provided angles by the user of the guns, we can find the angle of c
 
 By using, **Sine Rule** on the triangle formed between points a, b, and c we can find the hypotenuse1 and hypotenuse2. 
 
+<<<<<<< HEAD
+<a href="https://ibb.co/5KKCh0R"><img src="https://i.ibb.co/XYY6xQC/Be-Funky-design.jpg" alt="Be-Funky-design" border="0" /></a>
+=======
 Now divide the triangle into two right-angled triangles, from the newly formed triangle we can find the coordinates of the point of collision and get the desired result.
 
 ### For more explaination look for image below
+>>>>>>> 70442200d2d2cd43fba1c6a4b14f471bb3e6f5c1
 
 <a href="https://ibb.co/5KKCh0R"><img src="https://i.ibb.co/XYY6xQC/Be-Funky-design.jpg" alt="Be-Funky-design" border="0" /></a>
 <br/>

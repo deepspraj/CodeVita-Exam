@@ -10,7 +10,7 @@ You are given a string P that denotes the new order of letters in the English di
 
 You need to print the smallest lexicographic string made from the given string S.
 
-## Explaination
+## Explanation
 
 A whole alphabetical order and a word will be provided by the user as an input. 
 

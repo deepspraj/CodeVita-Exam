@@ -14,7 +14,7 @@ Assume a person stands on grassland(x) and a Smilodon escapes from the cage situ
 
 If any grassland is unreachable for Smilodon (maybe it is unreachable for any person also), to increase the safe index value Club Authority use to mark those grasslands as safe land.
 
-## Explaination
+## Explanation
 
 For solving the problem we need to state two things that grassland is safe only in two possible ways.
 

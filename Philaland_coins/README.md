@@ -18,7 +18,7 @@ According to him any item can be purchased one time ranging from $1 to $5. Every
 
 Your task is to help Manisha come up with minimum number of denominations for any arbitrary max price in Philaland.
 
-## Explaination
+## Explanation
 
 The problem wants us to find the minimum numbers of coins required to satisfy all the count from 0 to N (maximum price).
 So here the solution, we need to configure that in our daily life we have only **10 rupees coin**, **5 rupees coin**, **2 rupees coin**, and **1 rupee coin**. That means, our solution will be having only **10 rupees coin**, **5 rupees coin**, **2 rupees coin**, and **1 rupee coin**. 
