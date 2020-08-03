@@ -10,7 +10,16 @@ Two riders A and B are travelling on a highway towards each other on two roads t
 
 ## Explanation
 
+First, all the inputs provided by the user must be positive as distances and velocities can't be negative (logically).
+
+Now, We need to find the distance between two riders by using the distance formula `(i.e. sqrt(x*x + y*y))` and subtract velocity of each rider from respective distance.
+
+And perform above step until distance of both the rider become's negative. As soon as, both the distances are negative just break the loop and the answer is the minimum distance which we calculated using distance formula before failing in the condition of positivity.
+
+
 **Calculating and printing of output should be done up to 11 digits precision after decimal point.**
+
+<br/>
 
 ```\minimumDistance> python minimumDistance.py```
 

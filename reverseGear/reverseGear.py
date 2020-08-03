@@ -24,7 +24,7 @@ testCases = int(input())
 
 if(0< testCases <=100):
     data = [[0 for x in range (4)] for n in range (testCases)]
-    ans = [0]*testCases
+    ans = [0 for n in range (testCases)]
 
     for i in range (testCases):
         instantData = input().split(' ')
